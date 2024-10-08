@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: Helvetica;
     scroll-behavior: smooth;
+    font-weight: 600;
 }
 
 :root{
@@ -161,7 +162,7 @@ h2 {
     width: 100%;
 }
 .content{
-    width: 40%;
+    width: 30%;
     height: 100%;
 }
 
